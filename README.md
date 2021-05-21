@@ -52,6 +52,8 @@ Constraints :
     123512 
 
 | Sample Output 0 
+
+
     820082 
 
 Explanation :
@@ -64,12 +66,17 @@ Explanation :
 
 
 | Sample input 1 
+
      909 
 
+
 | Sample Output 1 
+
+
      898 
 
 Explanation :
+
 • The maximum possible reconstruction is 999 when 0 is interpreted as 9.
 
 • The minimum possible reconstruction is 101 when 9 is interpreted as 1.
